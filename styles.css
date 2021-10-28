@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(139, 147, 148);
+    font-family: 'Irish Grover', cursive;
+}
+
+.navbar {
+    background-color: black;
+}
+
+.navbar a {
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+
+#brand {
+    font-size: 1.5rem;
+}
+
+.content {
+    margin-top: 100px;
+}
+
+p {
+    line-height: 2.5rem;
+}
+
+h2 {
+    font-size: 3rem;
+}
+
+#headingSection span {
+    color: rgb(224, 41, 41);
+}
+
+#headingSection h1 {
+    font-weight: bold;
+}
+
+@media (max-width:1200px) {
+    #headingSection h1 {
+        font-size:3rem;
+    }
+}
