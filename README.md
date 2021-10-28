@@ -1,2 +1,5 @@
 # Taylor-Swift-Page
-basic page with bootstrap
+
+This is a Taylor Swift page that I made while learning bootstrap.
+
+https://manzaraci.github.io/Taylor-Swift-Page/
